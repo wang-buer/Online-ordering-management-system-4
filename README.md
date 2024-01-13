@@ -1,10 +1,10 @@
-# 在线订餐管理系统
+# 在线订餐管理系统4
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**订餐4**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**订餐**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -31,29 +31,21 @@
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041101402.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208041101402.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041101585.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202208041101585.jpg)
 
 ### 4.2 其它模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041101761.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208041101761.jpg)
 
-![订餐详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041102671.jpg)
+![订餐详情](https://www.codeshop.fun/Typora-Images/202208041102671.jpg)
 
-![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041102280.jpg)
+![购物车](https://www.codeshop.fun/Typora-Images/202208041102280.jpg)
 
-![历史订餐](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041102708.jpg)
+![历史订餐](https://www.codeshop.fun/Typora-Images/202208041102708.jpg)
 
-![评论模块](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041102116.jpg)
+![评论模块](https://www.codeshop.fun/Typora-Images/202208041102116.jpg)
 
-![大众评论](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041102942.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**订餐4** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![大众评论](https://www.codeshop.fun/Typora-Images/202208041102942.jpg)
 
